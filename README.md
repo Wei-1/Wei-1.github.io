@@ -1,27 +1,65 @@
-# What's this?
-Hello everyone, I am Wei. Welcome to my website.
+# Wei Chen
 
-I made this website to test the difference among classification algorithms by visulizing their classifiers.
++886-988-153-817
 
-By doing so, we should be able to learn more of the pros and cons about these algorithms.
+weichentaiwan@gmail.com
 
-## Who are you?
-I am Wei Chen, a software engineer/scientist from Taiwan.
+https://ghtinc.com/Wei-1
 
-I did machine learning research in Stanford (USA) and RIKEN (Japan), after graduated from National Taiwan University.
+### PROFILE
 
-Currently, I joined Groundhog Technologies as the tech lead in New Product Development Team.
+Scala Enthusiast, Data Scientist, Software Architect
 
-## Why machine learning in JavaScript?
-I know machine learning in JavaScript will have performance issue.
+### EXPERIENCE
 
-However, JavaScript can be visualized easily.
+#### Groundhog Technologies
 
-Since the project is about visualizing classifiers, this language become our final choice.
+###### Lead Software Architect : 2016 Feb ~ Present
 
-btw, my favorite programming language is Scala though.
+###### New Product Team Tech Lead : 2015 June ~ 2016 Feb
 
-## Why I clicked something but there's nothing inside?
-You probably clicked some stuff that are not ready yet.
+###### Intern : 2014 March ~ May
 
-Some options and pages exist to remind me what to do next.
+Data Management Platform + Demand-Side Platform for Mobile Operators
+
+#### Stanford University
+
+###### Research Assistant : 2015 Jan ~ May
+
+EEG and Brain Modeling
+
+###### Scientist : 2014 Jun ~ Sep
+
+EEG Classification and Visualization
+
+#### National Taiwan University
+
+###### Research Assistant : 2012 Sep ~ 2014 May
+
+Real-Time EEG Analysis Platform in National Taiwan University Hospital
+
+### EDUCATION
+
+#### National Taiwan University
+
+###### Biomedical Electronics and Bioinformatics : 2012 Sep ~ 2014 May
+
+#### National Tsing Hua University
+
+###### Electrical Engineering : 2007 Sep ~ 2011 May
+
+### SKILLS
+
+#### Programming Languages : Scala, C++, JavaScript, Java, Python, Go
+
+#### Big Data Architecture : Spark, Hadoop, Kafka
+
+#### Machine Learning : https://github.com/Wei-1/Scala-Machine-Learning
+
+#### Other Tech Stacks : NodeJS, ReactJS, Redis, MongoDB, Neo4J, Docker, TensorFlow
+
+### OTHER EXPERIENCES
+
+#### Codingame International AI Arena : https://www.codingame.com/profile/3f4adfba53d1ae216fb40f9c51b72c843953371
+
+#### Scala Algorithms Kit Open Source : https://github.com/huiwang/codingame-scala-kit
