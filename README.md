@@ -1,65 +1,69 @@
+<img src="https://i.imgur.com/MCuD0aF.png" width="100px"/>
+
 # Wei Chen
 
-+886-988-153-817
+## Contact
 
-weichentaiwan@gmail.com
+ - Phone: [+886-988-153-817](tel:886-988-153-817)
 
-https://ghtinc.com/Wei-1
+ - Email: [weichentaiwan@gmail.com](mailto://weichentaiwan@gmail.com)
 
-### PROFILE
+ - Github: [https://ghtinc.com/Wei-1](https://ghtinc.com/Wei-1)
 
-Scala Enthusiast, Data Scientist, Software Architect
+## PROFILE
 
-### EXPERIENCE
+ - Scala Enthusiast, Data Scientist, Software Architect
+
+## EXPERIENCE
 
 #### Groundhog Technologies
 
-###### Lead Software Architect : 2016 Feb ~ Present
+ - Lead Software Architect : 2016 Feb ~ Present
 
-###### New Product Team Tech Lead : 2015 June ~ 2016 Feb
+ - New Product Team Tech Lead : 2015 June ~ 2016 Feb
 
-###### Intern : 2014 March ~ May
+ - Intern : 2014 March ~ May
 
-Data Management Platform + Demand-Side Platform for Mobile Operators
+#### Stanford University (USA)
 
-#### Stanford University
+ - Research Assistant : 2015 Jan ~ May
 
-###### Research Assistant : 2015 Jan ~ May
+#### RIKEN Brain Science Institute (Japan)
 
-EEG and Brain Modeling
-
-###### Scientist : 2014 Jun ~ Sep
-
-EEG Classification and Visualization
+ - Scientist : 2014 Jun ~ Sep
 
 #### National Taiwan University
 
-###### Research Assistant : 2012 Sep ~ 2014 May
+ - Research Assistant : 2012 Sep ~ 2014 May
 
-Real-Time EEG Analysis Platform in National Taiwan University Hospital
-
-### EDUCATION
+## EDUCATION
 
 #### National Taiwan University
 
-###### Biomedical Electronics and Bioinformatics : 2012 Sep ~ 2014 May
+ - Biomedical Electronics and Bioinformatics : 2012 Sep ~ 2014 May
 
 #### National Tsing Hua University
 
-###### Electrical Engineering : 2007 Sep ~ 2011 May
+ - Electrical Engineering : 2007 Sep ~ 2011 May
 
-### SKILLS
+## SKILLS
 
-#### Programming Languages : Scala, C++, JavaScript, Java, Python, Go
+ - Programming Languages : Scala, C++, JavaScript, Java, Python, Go
 
-#### Big Data Architecture : Spark, Hadoop, Kafka
+ - Big Data Architecture : Spark, Hadoop, Kafka
 
-#### Machine Learning : https://github.com/Wei-1/Scala-Machine-Learning
+ - Machine Learning : [My Own Machine Learning Library - Github Link](https://github.com/Wei-1/Scala-Machine-Learning)
 
-#### Other Tech Stacks : NodeJS, ReactJS, Redis, MongoDB, Neo4J, Docker, TensorFlow
+ - Other Tech Stacks : NodeJS, ReactJS, Redis, MongoDB, Neo4J, Docker, TensorFlow
 
-### OTHER EXPERIENCES
+## OTHER EXPERIENCES
 
-#### Codingame International AI Arena : https://www.codingame.com/profile/3f4adfba53d1ae216fb40f9c51b72c843953371
+ - Codingame International AI Arena : 128/1108928 [Profile Link](https://www.codingame.com/profile/3f4adfba53d1ae216fb40f9c51b72c843953371)
 
-#### Scala Algorithms Kit Open Source : https://github.com/huiwang/codingame-scala-kit
+ - Scala Algorithms Kit Open Source : [Github Link](https://github.com/huiwang/codingame-scala-kit)
+
+ - Ping Pong School Team
+ 
+ - Beach Patrol
+ 
+ 
