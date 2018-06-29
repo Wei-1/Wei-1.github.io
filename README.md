@@ -8,7 +8,7 @@
 
  - Email: [weichentaiwan@gmail.com](mailto://weichentaiwan@gmail.com)
 
- - Github: [https://ghtinc.com/Wei-1](https://ghtinc.com/Wei-1)
+ - Github: [https://github.com/Wei-1](https://github.com/Wei-1)
 
 ## PROFILE
 
@@ -16,7 +16,7 @@
 
 ## EXPERIENCE
 
-#### Groundhog Technologies
+#### [Groundhog Technologies](https://www.ghtinc.com/)
 
  - Lead Software Architect : 2016 Feb ~ Present
 
