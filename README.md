@@ -1,14 +1,14 @@
 <img src="https://i.imgur.com/MCuD0aF.png" width="160px"/>
 
-# Wei Chen :rocket:
+# Wei Chen
 
 ## Contact
 
- - :telephone_receiver: Phone: [+886-988-153-817](tel:886-988-153-817)
+ - Phone: [+886-988-153-817](tel:886-988-153-817)
 
- - :envelope: Email: [weichentaiwan@gmail.com](mailto://weichentaiwan@gmail.com)
+ - Email: [weichentaiwan@gmail.com](mailto://weichentaiwan@gmail.com)
 
- - :crystal_ball: Github: [https://github.com/Wei-1](https://github.com/Wei-1)
+ - Github: [https://github.com/Wei-1](https://github.com/Wei-1)
 
 ## PROFILE
 
@@ -49,8 +49,8 @@
 ## SKILLS
 
  - Programming Languages : Scala, C++, JavaScript, Java, Python, Go
-   - Scala :star2::star2::star2::star2::star2:
-     - 2 times Scala AI Contest 1st :trophy: [[1](https://www.codingame.com/leaderboards/challenge/mean-max/global?column=language&value=same) [2](https://www.codingame.com/leaderboards/challenge/ghost-in-the-cell/global?column=language&value=same)]
+   - Scala
+     - 2 times Scala AI Contest 1st [[1](https://www.codingame.com/leaderboards/challenge/mean-max/global?column=language&value=same) [2](https://www.codingame.com/leaderboards/challenge/ghost-in-the-cell/global?column=language&value=same)]
      - Production Experience
      - Multiple Open Sources Contribution
    - JavaScript, Python, Go
