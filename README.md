@@ -50,7 +50,7 @@
 
  - Programming Languages : Scala, C++, JavaScript, Java, Python, Go
    - Scala
-     - 2 times Scala AI Contest 1st [[1](https://www.codingame.com/leaderboards/challenge/mean-max/global?column=language&value=same) [2](https://www.codingame.com/leaderboards/challenge/ghost-in-the-cell/global?column=language&value=same)]
+     - 2 times Scala AI Contest 1st [[1](https://www.codingame.com/leaderboards/challenge/mean-max/global?column=language&value=scala) [2](https://www.codingame.com/leaderboards/challenge/ghost-in-the-cell/global?column=language&value=scala)]
      - Production Experience
      - Multiple Open Sources Contribution
    - JavaScript, Python, Go
