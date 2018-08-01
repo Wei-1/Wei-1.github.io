@@ -69,10 +69,8 @@
 
 ## OTHER EXPERIENCES
 
- - Codingame International AI Arena : 128/1108928 [Profile Link](https://www.codingame.com/profile/3f4adfba53d1ae216fb40f9c51b72c843953371)
-
+ - Codingame International AI Arena : 73/1139578 [Profile Link](https://www.codingame.com/profile/3f4adfba53d1ae216fb40f9c51b72c843953371)
  - Scala Algorithms Kit Open Source : [Github Link](https://github.com/huiwang/codingame-scala-kit)
-
+ - Astrobiology : Coursera
  - Ping Pong School Team
- 
  - Beach Patrol
