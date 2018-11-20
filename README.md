@@ -18,6 +18,8 @@
 
  - [CV Link](CV.pdf)
 
+ - [Papers Link](https://github.com/Wei-1/Wei-1.github.io/blob/master/PAPERS.md)
+
 ## THINGS NOT in CV
 
  - Ping-Pong School Team (6 Years)
