@@ -4,7 +4,7 @@
 
     `Wei Chen`, C.P. Shen, M.J. Chiu, Q. Zhao, C. Andrzej, J.W. Lin, F. Lai
 
-    http://emb.citengine.com/event/embc-2015/paper-details?pdID=5288
+    https://ieeexplore.ieee.org/document/7319386
 
 2. Pulse Analysis System with a Novice Periodic Function Examination Method on Sepsis Survival Prediction - Procedia Computer Science 2014
 
@@ -16,19 +16,19 @@
 
     `Wei Chen`, Y.Y. Lam, C.P. Shen, H.Y. Sung, J.W. Lin, M.J. Chiu, F. Lai
 
-    http://ieeexplore.ieee.org/document/6701576/?arnumber=6701576
+    http://ieeexplore.ieee.org/document/6701576
 
 4. Classification of Schizophrenia using Genetic Algorithm - Support Vector Machine (GA-SVM) - IEEE EMBC 2013
 
     M.H. Hiesh, Y.Y. Lam, C.P. Shen, `Wei Chen`, F.S. Lin, H.Y. Sung, J.W. Lin, M.J. Chiu, F. Lai
 
-    http://ieeexplore.ieee.org/document/6610931/?arnumber=6610931
+    http://ieeexplore.ieee.org/document/6610931
 
 5. Epilepsy Analytic System with Cloud Computing - IEEE EMBC 2013
 
     C.P. Shen, W.Z. Zhou, F.S. Lin, H.Y. Sung, Y.Y. Lam, `Wei Chen`, J.W. Lin, M.K. Pan, M.J. Chiu, F. Lai
 
-    http://ieeexplore.ieee.org/document/6609832/?arnumber=6609832
+    http://ieeexplore.ieee.org/document/6609832
 
 6. A Physiology-Based Seizure Detection System for Multichannel EEG - PloS One 2013
 
@@ -40,7 +40,7 @@
 
     `Wei Chen`, Q.X. Yang, K.W. Lin, S.Y. Wang, C.L. Huang
 
-    http://ieeexplore.ieee.org/document/6115985/?tp=&arnumber=6115985
+    http://ieeexplore.ieee.org/document/6115985
 
 8. Olfactory Bulb in Drosophila brain Edge detection using Fuzzy Logic Image Analogies - CVGIP 2010
 
