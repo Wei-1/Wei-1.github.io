@@ -10,7 +10,7 @@ I worked in RIKEN Brain Science Institute in Japan and Stanford University in th
 <br/>
 I joined a startup for 5 years, developed a software system and lead a team to sell it to 5 mobile operators in 3 countries.
 <br/>
-I then joined a large healthcare IT company in the U.S. for a year and built a healthcare datalake.
+I then joined a large healthcare IT company in the U.S. for a year and built a healthcare data-lake.
 <br/>
 Currently, I am a Data Scientist in Amazon Web Services, building AI/ML applications for our customers.
 <br/>
@@ -26,7 +26,7 @@ If you have any other questions, please feel free to contact me.
 
  - Github: [Wei-1](https://github.com/Wei-1)
  
- - Linkedin: [wei-chen-39546218/](https://www.linkedin.com/in/wei-chen-39546218/)
+ - Linkedin: [wei-chen-39546218](https://www.linkedin.com/in/wei-chen-39546218/)
 
 ## EXPERIENCE, EDUCATION, and SKILL
 
