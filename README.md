@@ -15,7 +15,7 @@ I joined a startup for 5 years, developed a software system and led a team to se
 <br/>
 I then joined a large healthcare IT company in the U.S. for a year and built a healthcare data-lake.
 
-Currently, I am a Sr. Data Scientist in Amazon Web Services, building AI/ML applications for our customers.
+Currently, I am a Staff Software Engineer - Machine Learning in Meta, improving user journey in commerce platform with AI/ML.
 
 Please feel free to contact me!
 
