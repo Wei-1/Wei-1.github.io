@@ -14,6 +14,8 @@ I worked in RIKEN Brain Science Institute in Japan and Stanford University in th
 I joined a startup for 5 years, developed a software system and led a team to sell it to 5 mobile operators in 3 countries.
 <br/>
 I then joined a large healthcare IT company in the U.S. for a year and built a healthcare data-lake.
+<br/>
+After that, I joined AWS as the ML architect, helping customers solved ML problems that they weren't able to tackle for years.
 
 Currently, I am a Staff Software Engineer - Machine Learning in Meta, improving user journey in commerce platform with AI/ML.
 
