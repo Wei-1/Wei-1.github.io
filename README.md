@@ -15,7 +15,7 @@ I joined a startup for 5 years, developed a software system and led a team to se
 <br/>
 I then joined a large healthcare IT company in the U.S. for a year and built a healthcare data-lake.
 <br/>
-After that, I joined AWS as the ML architect, helping customers solved ML problems that they weren't able to tackle for years.
+After that, I joined AWS as the ML architect for 3 years, helping customers solved ML problems that they weren't able to tackle.
 
 Currently, I am a Staff Software Engineer - Machine Learning in Meta, improving user journey in commerce platform with AI/ML.
 
