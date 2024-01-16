@@ -5,19 +5,11 @@
 
 Hello, I am Wei.
 
-I am experienced in Data Science, Data Engineering, Data Architect, and AI/ML implementation.
+I am experienced in Data Science, ML Engineering, Cloud Architect, AI Consulting, and Tech Managing.
 
-I graduated from National Taiwan University as a Master of Science in Biomedical Electronics and Bioinformatics.
-<br/>
-I worked in RIKEN Brain Science Institute in Japan and Stanford University in the U.S. as a research assistant.
-<br/>
-I joined a startup for 5 years, developed a software system and led a team to sell it to 5 mobile operators in 3 countries.
-<br/>
-I then joined a large healthcare IT company in the U.S. for a year and built a healthcare data-lake.
-<br/>
-After that, I joined AWS as the ML architect for 3 years, helping customers solved ML problems that they weren't able to tackle.
+I am fortunate enough to worked in several companies including Amazon and Meta, and in multiple countries including Japan, UK, and the US.
 
-Currently, I am a Staff Software Engineer - Machine Learning in Meta, improving user journey in commerce platform with AI/ML.
+Currently, I am a Tech Manager in TSMC, developing and coaching 3 software product teams.
 
 Please feel free to contact me!
 
